@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student in **Computer Engineering** at [Northeastern University](https://www.northeastern.edu/), [College of Engineering](https://coe.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/).
+Welcome to my homepage! I am a second year Ph.D. student in **Computer Engineering** at [Northeastern University](https://www.northeastern.edu/), [College of Engineering](https://coe.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/).
 
 ## Academic Background
 
@@ -17,11 +17,18 @@ I am a second year Ph.D. student in **Computer Engineering** at [Northeastern Un
 
 ## Research Interests
 
-My research broadly covers **[Machine Learning, Computer Vision, LLMs]**. Specifically, I focus on:
-- **[Sparse Network Training]**
+My research broadly covers **[Machine Learning, Computer Vision, LLMs]**. Specifically, I currently focus on:
 - **[Multi-View Learning]**
+- **[Sparse Network Training]**
 
 I am always interested in collaborating on related topics and open to discussions.
+
+## News
+
+## Professional Services
+
+Journal Reviewer - TKDD, etc.
+Conference Reviewer - AAAI'25, ICML'25, etc.
 
 ## Contact
 
