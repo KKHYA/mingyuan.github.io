@@ -19,7 +19,7 @@ I am a second year Ph.D. student in **Computer Engineering** at **[Northeastern 
 
 ## Research Interests
 
-My research broadly covers **[your key research areas, e.g., machine learning, computer vision, optimization]**. Specifically, I focus on:
+My research broadly covers **[Machine Learning, Computer Vision, LLMs]**. Specifically, I focus on:
 - **[Main topic 1]** (e.g., neural network pruning, sparse training, etc.)
 - **[Main topic 2]** (e.g., efficient AI model adaptation, transfer learning, etc.)
 - **[Main topic 3]** (e.g., multimodal learning, computational imaging, etc.)
@@ -28,8 +28,6 @@ I am always interested in collaborating on related topics and open to discussion
 
 ## Contact
 
-📄 [Curriculum Vitae](../assets/Curriculum_Vitae.pdf)  
-✉️ [Email](mailto:XX@your_university.edu)  
-💻 [GitHub](https://github.com/YourUsername)  
-🌐 [Website](https://yourwebsite.com)  
-📖 [CSDN](https://blog.csdn.net/YourProfile)  
+✉️ [Email](mailto:XX@your_university.edu)
+<img src="../images/github.png" alt="WeChat QR Code" width="20"/> [GitHub](https://github.com/KKHYA)
+<img src="../images/wechat.png" alt="WeChat QR Code" width="20"/> [WeChat](../images/wechatqr.png)
