@@ -9,7 +9,7 @@ redirect_from:
 
 # About Me
 
-I am a second year Ph.D. student in **Computer Engineering** at **[Northeastern University]**, **[College of Engineering]**. I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at **[Smilelab]**. My research focuses on **[your main research topic, e.g., efficient fine-tuning methods for large language models, microplastic concentration prediction, or the impact of human activities on environmental pollutants]**. My broader research interests include **[list key areas, e.g., deep learning, high-performance computing, optimization, embedded systems]**.
+I am a second year Ph.D. student in **Computer Engineering** at [Northeastern University](https://www.northeastern.edu/), [College of Engineering](https://coe.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/). My research focuses on **[your main research topic, e.g., efficient fine-tuning methods for large language models, microplastic concentration prediction, or the impact of human activities on environmental pollutants]**. My broader research interests include **[list key areas, e.g., deep learning, high-performance computing, optimization, embedded systems]**.
 
 ## Academic Background
 
@@ -28,6 +28,6 @@ I am always interested in collaborating on related topics and open to discussion
 
 ## Contact
 
-✉️ [Email](mailto:XX@your_university.edu)
+<img src="../images/outlook.png" alt="WeChat QR Code" width="20"/> [Email](mailto:XX@your_university.edu)
 <img src="../images/github.png" alt="WeChat QR Code" width="20"/> [GitHub](https://github.com/KKHYA)
 <img src="../images/wechat.png" alt="WeChat QR Code" width="20"/> [WeChat](../images/wechatqr.png)
