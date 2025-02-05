@@ -27,8 +27,8 @@ I am always interested in collaborating on related topics and open to discussion
 
 ## Professional Services
 
-Journal Reviewer - TKDD, etc.
-Conference Reviewer - AAAI'25, ICML'25, etc.
+- **Journal Reviewer** - TKDD, etc.
+- **Conference Reviewer** - AAAI'25, ICML'25, etc.
 
 ## Contact
 
