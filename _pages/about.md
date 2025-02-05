@@ -26,6 +26,6 @@ I am always interested in collaborating on related topics and open to discussion
 
 ## Contact
 
-<img src="../images/outlook.png" alt="OutLook" width="20"/> [Email](mailto:zhang.mingyua@northeastern.edu)
-<img src="../images/github.png" alt="WeChat" width="20"/> [GitHub](https://github.com/KKHYA)
-<img src="../images/wechat.png" alt="GitHub" width="20"/> [WeChat](../images/wechatqr.png)
+<img src="https://kkhya.github.io/Mingyuan-Zhang.github.io/images/outlook.png" alt="OutLook" width="20"/> [Email](mailto:zhang.mingyua@northeastern.edu)
+<img src="https://kkhya.github.io/Mingyuan-Zhang.github.io/images/github.png" alt="WeChat" width="20"/> [GitHub](https://github.com/KKHYA)
+<img src="https://kkhya.github.io/Mingyuan-Zhang.github.io/images/wechat.png" alt="GitHub" width="20"/> [WeChat](../images/wechatqr.png)
