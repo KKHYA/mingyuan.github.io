@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am a second year Ph.D. student in **Computer Engineering** at [Northeastern University](https://www.northeastern.edu/), [College of Engineering](https://coe.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/).
+Welcome to my homepage! I am a second year Ph.D. student in Computer Engineering at Northeastern University in Boston, MA. I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/).
 
 ## Academic Background
 
@@ -25,10 +25,12 @@ I am always interested in collaborating on related topics and open to discussion
 
 ## News
 
+
+
 ## Professional Services
 
-- **Journal Reviewer** - TKDD, etc.
 - **Conference Reviewer** - AAAI'25, ICML'25, etc.
+- **Journal Reviewer** - TKDD, etc.
 
 ## Contact
 
