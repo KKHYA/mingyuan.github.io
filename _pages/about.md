@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 I am a second year Ph.D. student in **Computer Engineering** at [Northeastern University](https://www.northeastern.edu/), [College of Engineering](https://coe.northeastern.edu/). I am fortunate to be advised by [Prof. Yun Raymond Fu](https://www1.ece.neu.edu/~yunfu/) at [Smilelab](https://fulab.sites.northeastern.edu/). My research focuses on **[your main research topic, e.g., efficient fine-tuning methods for large language models, microplastic concentration prediction, or the impact of human activities on environmental pollutants]**. My broader research interests include **[list key areas, e.g., deep learning, high-performance computing, optimization, embedded systems]**.
 
